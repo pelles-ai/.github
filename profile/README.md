@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Add your logo: Replace with actual logo path once uploaded -->
-<!-- <img src="https://raw.githubusercontent.com/pelles-ai/.github/main/assets/logo.png" alt="Pelles AI" width="200"/> -->
-
-# Pelles AI
+<img src="https://raw.githubusercontent.com/pelles-ai/.github/main/logo-with-text.svg" alt="Pelles AI" width="280"/>
 
 **Powering trades from bid to build**
 
@@ -18,29 +15,10 @@
 
 <br>
 
-<!-- Hero banner placeholder: Create a 1200x400px image showcasing AI + Construction -->
-<!-- <img src="https://raw.githubusercontent.com/pelles-ai/.github/main/assets/hero-banner.png" alt="AI for Construction" width="100%"/> -->
-
 <div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<img width="60" src="https://raw.githubusercontent.com/pelles-ai/.github/main/assets/icon-documents.png" alt="Documents"/>
-<br><strong>Document Intelligence</strong>
-<br><sub>Drawings, specs, contracts</sub>
-</td>
-<td align="center" width="33%">
-<img width="60" src="https://raw.githubusercontent.com/pelles-ai/.github/main/assets/icon-ai.png" alt="AI"/>
-<br><strong>Frontier AI</strong>
-<br><sub>Purpose-built models</sub>
-</td>
-<td align="center" width="33%">
-<img width="60" src="https://raw.githubusercontent.com/pelles-ai/.github/main/assets/icon-scale.png" alt="Scale"/>
-<br><strong>Machine Scale</strong>
-<br><sub>$13T industry impact</sub>
-</td>
-</tr>
-</table>
+
+`Document Intelligence` · `Frontier AI` · `Machine Scale`
+
 </div>
 
 <br>
