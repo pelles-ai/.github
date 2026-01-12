@@ -58,6 +58,6 @@ We believe great software is built transparently. Explore our repositories to se
 
 <br>
 
-<sub>Built with purpose in San Francisco</sub>
+<sub>Built with purpose in TLV</sub>
 
 </div>
