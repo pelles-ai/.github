@@ -1,24 +1,47 @@
+<div align="center">
+
 # Pelles AI
 
-Building intelligent AI-powered products that solve real-world problems.
+### Powering trades from bid to build
 
-## About Us
+**AI-powered construction intelligence that saves money, reduces risk, and drives every project forward.**
 
-Pelles AI develops cutting-edge artificial intelligence products designed to enhance productivity, automate complex workflows, and deliver meaningful insights. We combine advanced machine learning with intuitive user experiences to create solutions that make a difference.
+[Website](https://www.pelles.ai) · [Request Demo](https://www.pelles.ai)
 
-## Our Mission
-
-To democratize AI technology by creating accessible, powerful products that help individuals and organizations achieve more.
-
-## Projects
-
-Check out our public repositories to explore our open-source contributions and projects.
-
-## Connect With Us
-
-- Website: [pelles.ai](https://pelles.ai)
-- Email: contact@pelles.ai
+</div>
 
 ---
 
-*Interested in what we're building? Star our repos and follow along!*
+## What We Build
+
+We develop AI tools purpose-built for construction and trades — transforming how contractors handle preconstruction, bidding, and project execution.
+
+| Product | What It Does |
+|---------|--------------|
+| **DoubleCheck** | Extracts critical information from drawings, specs, contracts, and addendums — giving your team project clarity and data-backed decisions |
+| **Workflows** | Automates contract review, quote comparison, schedule building, and submittal prep while respecting your standards and templates |
+| **Compare** | Matches drawing revisions automatically, highlights scope changes across addendums, and summarizes what's different |
+
+## Impact
+
+<div align="center">
+
+**2,000+** projects powered · **36,000+** issues caught early · **10+ hours** saved per bid
+
+</div>
+
+## Who We Serve
+
+Preconstruction · Estimators · Legal · Operations · Field Teams · Executives
+
+---
+
+<div align="center">
+
+**Trusted by industry leaders** including Kidwell, L.A. Fuller & Sons, Press Mechanical, and Peck Hannaford + Briggs
+
+[![SMACNA Partner](https://img.shields.io/badge/Partner-SMACNA-1a365d)](https://www.pelles.ai)
+
+[Explore Our Repositories →](https://github.com/pelles-ai)
+
+</div>
