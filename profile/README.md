@@ -43,6 +43,8 @@ We're applying frontier AI to unlock the intelligence trapped in project documen
 
 We believe great software is built transparently. Explore our repositories to see what we're working on and join the conversation.
 
+Check out our **[(un)blog](https://unblog.pelles.ai)** for interactive deep-dives into what we're building.
+
 <br>
 
 ---
